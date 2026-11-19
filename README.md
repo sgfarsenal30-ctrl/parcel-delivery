@@ -8,3 +8,10 @@ We created this project to help people better understand the process, avoid comm
 
 # How?
 The project provides information about the process of parcel delivery along with resources. It guides customers through the delivery process, explains delivery update and provides advice on handling problems.
+
+## Git Best Practices
+- Write clear commit messages that properly explain why a change was made if ever.
+
+- Review changes before committing to ensure avoiding multiple unnecessary changes in the process.
+
+- Create and use branches for features, fixes, and experiments to keep your main branch stable.
