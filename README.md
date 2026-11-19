@@ -22,3 +22,9 @@ The project provides information about the process of parcel delivery along with
 - Logistics and Transportation – Understanding how packages are transported and distributed.
 - 
 - Customer Service – How to handle delivery concerns, delays, and complaints.
+## Git Best Practices
+- Write clear commit messages that properly explain why a change was made if ever.
+
+- Review changes before committing to ensure avoiding multiple unnecessary changes in the process.
+
+- Create and use branches for features, fixes, and experiments to keep your main branch stable.
